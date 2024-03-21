@@ -9,7 +9,3 @@ The 'hotdogs-resnet.ipynb' file performs the following tasks:
 1. Load data for training and testing, creating dataloader
 2. Train model
 3. Test model on test data
-
-# data
-
-This folder contains the dataset, this is the path used in the code
